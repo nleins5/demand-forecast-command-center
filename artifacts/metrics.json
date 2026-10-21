@@ -1,0 +1,7 @@
+{
+  "backtest_folds": 3,
+  "mean_wmape": 0.0621,
+  "mean_mae_units": 4.651,
+  "mean_interval_coverage": 0.8829,
+  "forecast_rows": 336
+}
